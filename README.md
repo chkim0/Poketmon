@@ -43,3 +43,13 @@ path.exists()를 사용하여 생성된 이미지 경로가 있는지 확인. �
 선택된 이미지들의 정보(거리, 파일 경로, 인덱스)를 scores 리스트에 저장
 
 시각화를 위해 빈 그림과 서브플롯을 생성하고, 상위 30개 이미지를 시각화 후 각 이미지의 제목은 해당 이미지와 query 이미지 간의 거리를 나타냄.
+
+
+결과 
+![image](https://github.com/chkim0/Poketmon/assets/113896147/f3362005-5e76-488a-9040-f2b5af23bc4f)
+
+이미지와 유사도 확인 
+
+![image](https://github.com/chkim0/Poketmon/assets/113896147/6325ea11-b2a3-428b-9f4f-aaeee986cd8f)
+
+
